@@ -9,6 +9,7 @@ namespace EmployeeWageProgram
             Console.WriteLine("Welcome To Employee Wage Program");
 
             EmployeeCheck.EmployeePresentOrNot();
+            CalculateEmployeeWage.CalculateWage();
         }
     }
 }
